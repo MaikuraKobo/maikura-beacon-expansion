@@ -1,44 +1,58 @@
 # Maikura Beacon Expansion
 
-Expanded beacon functionality for Minecraft Fabric.
-
-Crafted for Minecraft.
+Expand the power of beacons with extended range, advanced effect control, and quality-of-life improvements.
 
 ## Features
 
 ### Beacon Core
 
-A special beacon core block that extends beacon range to 128 blocks.
+A special beacon enhancement block that extends beacon range up to **128 blocks**.
 
 ### Enhanced Beacon Core
 
-An upgraded beacon core that extends beacon range to 256 blocks.
+An advanced version that extends beacon range up to **256 blocks**.
 
-### Advanced Beacon Effects
+### Beacon Effect Manager
 
-Configure beacon effects through an easy-to-use interface.
+Manage beacon effects through an intuitive GUI.
 
-### Spawn Control
+* Enable or disable individual effects
+* Adjust effect levels
+* Configure beacon behavior without rebuilding the beacon
 
-Prevent natural hostile mob spawning inside the beacon area.
+### Mob Spawn Suppression
 
-## Range Comparison
+Prevent natural hostile mob spawning within the beacon area.
 
-| Beacon Type | Range |
-|------------|--------|
-| Vanilla Beacon | 64 Blocks |
-| Beacon Core | 128 Blocks |
-| Enhanced Beacon Core | 256 Blocks |
+* Spawner-generated mobs are not affected
+* Designed for survival-friendly base protection
 
-## Features
+### Multiplayer Compatible
 
-- Survival-friendly
-- Works in Singleplayer and Multiplayer
-- Lightweight and server-friendly
-- Fabric 1.21.11 support
+All features are designed to work in both singleplayer and multiplayer environments.
+
+## Included Blocks
+
+### Beacon Core
+
+* Beacon range: 128 blocks
+
+### Enhanced Beacon Core
+
+* Beacon range: 256 blocks
+
+## Compatibility
+
+* Minecraft Fabric 1.21.11
+* Singleplayer Supported
+* Multiplayer Supported
+* Survival Friendly
+* Mod Menu Supported
 
 ## Author
 
 舞倉工房 / MAIKURA KOBO
 
-Crafted for Minecraft
+## License
+
+See LICENSE file included with this project.
