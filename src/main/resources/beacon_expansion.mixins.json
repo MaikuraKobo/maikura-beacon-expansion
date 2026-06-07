@@ -1,0 +1,13 @@
+{
+  "required": false,
+  "package": "jp.exnakamura.beaconexpansion.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BeaconBlockEntityAccessor",
+    "BeaconBlockEntityMixin",
+    "SpawnRestrictionMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

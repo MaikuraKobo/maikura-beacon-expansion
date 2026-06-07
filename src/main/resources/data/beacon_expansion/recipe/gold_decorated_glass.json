@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "GNG",
+    "NGN",
+    "GNG"
+  ],
+  "key": {
+    "G": "minecraft:glass",
+    "N": "minecraft:gold_nugget"
+  },
+  "result": {
+    "id": "beacon_expansion:gold_decorated_glass",
+    "count": 4
+  }
+}

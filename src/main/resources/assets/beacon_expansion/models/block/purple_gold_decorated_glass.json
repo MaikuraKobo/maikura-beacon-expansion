@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "beacon_expansion:block/purple_gold_decorated_glass"
+  }
+}

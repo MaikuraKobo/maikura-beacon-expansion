@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DND",
+    "GBG",
+    "DND"
+  ],
+  "key": {
+    "D": "minecraft:diamond_block",
+    "N": "minecraft:netherite_block",
+    "G": "minecraft:gold_block",
+    "B": "minecraft:beacon"
+  },
+  "result": {
+    "id": "beacon_expansion:beacon_core",
+    "count": 1
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "particle": "#glass",
+    "glass": "beacon_expansion:block/gold_decorated_glass",
+    "obsidian": "minecraft:block/obsidian",
+    "beacon": "beacon_expansion:block/beacon_core_inner"
+  },
+  "elements": [
+    {
+      "__comment": "dev6.2: Vanilla beacon-style decorated glass shell",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#glass"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#glass"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#glass"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#glass"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#glass"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#glass"
+        }
+      }
+    },
+    {
+      "__comment": "dev6.2: Vanilla beacon-style obsidian base",
+      "from": [
+        2,
+        0.1,
+        2
+      ],
+      "to": [
+        14,
+        3,
+        14
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            2,
+            14,
+            14
+          ],
+          "texture": "#obsidian"
+        },
+        "up": {
+          "uv": [
+            2,
+            2,
+            14,
+            14
+          ],
+          "texture": "#obsidian"
+        },
+        "north": {
+          "uv": [
+            2,
+            13,
+            14,
+            16
+          ],
+          "texture": "#obsidian"
+        },
+        "south": {
+          "uv": [
+            2,
+            13,
+            14,
+            16
+          ],
+          "texture": "#obsidian"
+        },
+        "west": {
+          "uv": [
+            2,
+            13,
+            14,
+            16
+          ],
+          "texture": "#obsidian"
+        },
+        "east": {
+          "uv": [
+            2,
+            13,
+            14,
+            16
+          ],
+          "texture": "#obsidian"
+        }
+      }
+    },
+    {
+      "__comment": "dev6.2: Vanilla beacon-style glowing inner core",
+      "from": [
+        4,
+        3,
+        4
+      ],
+      "to": [
+        12,
+        14,
+        12
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ],
+          "texture": "#beacon"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            12,
+            12
+          ],
+          "texture": "#beacon"
+        },
+        "north": {
+          "uv": [
+            4,
+            2,
+            12,
+            13
+          ],
+          "texture": "#beacon"
+        },
+        "south": {
+          "uv": [
+            4,
+            2,
+            12,
+            13
+          ],
+          "texture": "#beacon"
+        },
+        "west": {
+          "uv": [
+            4,
+            2,
+            12,
+            13
+          ],
+          "texture": "#beacon"
+        },
+        "east": {
+          "uv": [
+            4,
+            2,
+            12,
+            13
+          ],
+          "texture": "#beacon"
+        }
+      }
+    }
+  ]
+}

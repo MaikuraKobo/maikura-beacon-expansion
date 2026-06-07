@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "beacon_expansion:gold_decorated_glass",
+    "beacon_expansion:gold_decorated_glass",
+    "beacon_expansion:gold_decorated_glass",
+    "beacon_expansion:gold_decorated_glass",
+    "minecraft:amethyst_shard"
+  ],
+  "result": {
+    "id": "beacon_expansion:purple_gold_decorated_glass",
+    "count": 4
+  }
+}

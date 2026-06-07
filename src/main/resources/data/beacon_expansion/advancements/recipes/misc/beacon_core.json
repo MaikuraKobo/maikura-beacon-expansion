@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_beacon": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:beacon"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_beacon"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "beacon_expansion:beacon_core"
+    ]
+  }
+}

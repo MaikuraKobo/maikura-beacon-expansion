@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "beacon_expansion",
+  "version": "2.3.1",
+  "name": "Maikura Beacon Expansion",
+  "description": "ビーコンコアとビーコンコア・極を追加し、専用GUIで拠点向け効果を設定できるビーコン拡張MOD。専用の進捗システムにも対応しています。通常ビーコンはMinecraft標準仕様のまま利用できます。",
+  "authors": [
+    "舞倉工房 / MAIKURA KOBO"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "jp.exnakamura.beaconexpansion.BeaconExpansionMod"
+    ],
+    "client": [
+      "jp.exnakamura.beaconexpansion.client.BeaconExpansionClient"
+    ]
+  },
+  "mixins": [
+    "beacon_expansion.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "icon": "assets/beacon_expansion/icon.png"
+}

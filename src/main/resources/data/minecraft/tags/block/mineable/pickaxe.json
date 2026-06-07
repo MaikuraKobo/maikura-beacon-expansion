@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "beacon_expansion:beacon_core",
+    "beacon_expansion:enhanced_beacon_core"
+  ]
+}

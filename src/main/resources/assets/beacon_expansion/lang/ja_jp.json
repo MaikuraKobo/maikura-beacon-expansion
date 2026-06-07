@@ -1,0 +1,13 @@
+{
+  "modmenu.descriptionTranslation.beacon_expansion": "ビーコンコアとビーコンコア・極を追加します。上位コアはGUIで拠点向け効果を設定でき、専用の進捗システムにも対応しています。通常ビーコンはMinecraft標準仕様のまま利用できます。",
+  "commands.beacon_expansion.show": "ビーコン範囲を表示しました。",
+  "commands.beacon_expansion.none": "近くに有効なビーコンが見つかりません。",
+  "block.beacon_expansion.beacon_core": "ビーコンコア",
+  "block.beacon_expansion.enhanced_beacon_core": "ビーコンコア・極",
+  "item.beacon_expansion.beacon_core": "ビーコンコア",
+  "item.beacon_expansion.enhanced_beacon_core": "ビーコンコア・極",
+  "block.beacon_expansion.gold_decorated_glass": "金装飾ガラス",
+  "block.beacon_expansion.purple_gold_decorated_glass": "紫金装飾ガラス",
+  "item.beacon_expansion.gold_decorated_glass": "金装飾ガラス",
+  "item.beacon_expansion.purple_gold_decorated_glass": "紫金装飾ガラス"
+}

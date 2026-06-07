@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NNN",
+    "NCN",
+    "NNN"
+  ],
+  "key": {
+    "N": "minecraft:netherite_block",
+    "C": "beacon_expansion:beacon_core"
+  },
+  "result": {
+    "id": "beacon_expansion:enhanced_beacon_core",
+    "count": 1
+  }
+}
