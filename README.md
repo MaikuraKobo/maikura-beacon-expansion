@@ -1,58 +1,40 @@
 # Maikura Beacon Expansion
 
-Expand the power of beacons with extended range, advanced effect control, and quality-of-life improvements.
+Expand the power of beacons with extended range, advanced management tools, building assistance, item magnet effects, and beacon boundary visualization.
 
 ## Features
 
 ### Beacon Core
 
-A special beacon enhancement block that extends beacon range up to **128 blocks**.
+A special beacon enhancement block that extends beacon effect range up to 128 blocks.
 
 ### Enhanced Beacon Core
 
-An advanced version that extends beacon range up to **256 blocks**.
+An upgraded Beacon Core that extends beacon effect range up to 256 blocks and unlocks advanced beacon functionality.
 
-### Beacon Effect Manager
+### Advanced Beacon Management
 
-Manage beacon effects through an intuitive GUI.
+Enable or disable beacon effects individually through an easy-to-use management interface.
 
-* Enable or disable individual effects
-* Adjust effect levels
-* Configure beacon behavior without rebuilding the beacon
+### Building Assistance
 
-### Mob Spawn Suppression
+Instantly remove building materials within the configured construction range, making large-scale building and renovation significantly faster.
 
-Prevent natural hostile mob spawning within the beacon area.
+### Item Magnet
 
-* Spawner-generated mobs are not affected
-* Designed for survival-friendly base protection
+Automatically attract nearby dropped items with configurable magnet ranges.
 
-### Multiplayer Compatible
+### Beacon Boundary Visualization
 
-All features are designed to work in both singleplayer and multiplayer environments.
+Display beacon effect boundaries directly in the world for easier planning and management.
 
-## Included Blocks
+### Modern Configuration GUI
 
-### Beacon Core
+Manage beacon effects, construction range, magnet range, and visualization settings through a convenient list-based interface.
 
-* Beacon range: 128 blocks
+## Supported Version
 
-### Enhanced Beacon Core
+* Minecraft 1.21.11
+* Fabric Loader
 
-* Beacon range: 256 blocks
-
-## Compatibility
-
-* Minecraft Fabric 1.21.11
-* Singleplayer Supported
-* Multiplayer Supported
-* Survival Friendly
-* Mod Menu Supported
-
-## Author
-
-舞倉工房 / MAIKURA KOBO
-
-## License
-
-See LICENSE file included with this project.
+Part of the Maikura Workshop mod series.
